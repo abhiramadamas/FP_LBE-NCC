@@ -53,7 +53,6 @@
 
     <div class="main">
 
-<!-- ---------------------COPYAN-------------------------------- -->
         <div class="hero">
             <div class="closer"></div>
             <div class="slideshow-container">
@@ -82,10 +81,8 @@
         </div>
         <div class="greeting">
             <h2>HALO SELAMAT DATANG KAWANN!!👋</h2>
-        </div>
-                <!-- batas copyan -->
+        </div>            
 
-<!-- --------------------COPYan---------------------------------- -->
         <div class="bgabout"id="about">
             <div class="about" >
                 <h2>About</h2>
