@@ -112,8 +112,8 @@
                         <a href="./character.php"><img src="FP LBE NCC/char5.png" title="Chonyun Genshin" height="220px"></a>
                     </div>
                     <div class="satu weapon">
-                        <p>Weapon</p>
-                        <a href="testarget.html"><img src="FP LBE NCC/weapon.png " title="Whiteblind" alt="character" width="160px"></a>
+                        <p>Artefak</p>
+                        <a href="testarget.html"><img src="FP LBE NCC/artefac.png " title="Whiteblind" alt="character" width="160px"></a>
                     </div>
                 </div>
             </div>
