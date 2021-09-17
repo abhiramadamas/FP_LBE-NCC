@@ -13,7 +13,7 @@
         $img = "https://www.gensh.in/";
         $img .= $list->children($i)->children(0)->children(0)->children(0)->children(1)->find('img',0)->src;
         $i++;
-        mysqli_query($conn ,"INSERT INTO artifact(number, nama, single_set, bonus_set, gambar) VALUES ('$i','$artifact', '$single_set', '$bonus_set', '$img')");
+        //mysqli_query($conn ,"INSERT INTO artifact(number, nama, single_set, bonus_set, gambar) VALUES ('$i','$artifact', '$single_set', '$bonus_set', '$img')");
         // echo $artifact;
         // echo "<br>";
         // echo $single_set;
