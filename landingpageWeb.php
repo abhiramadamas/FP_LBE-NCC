@@ -58,14 +58,20 @@
             <div class="slideshow-container">
 
                 <div class="mySlides fade">
-                    <div class="numbertext">1 / 2</div>
-                    <img src="FP LBE NCC/update-karakter.jpg" style="width:100% ">
-                    <!-- <div class="text">Caption Two</div> -->
+                    <div class="numbertext">1 / 3</div>
+                    <img src="FP LBE NCC/karakter3.jpg" style="width:100% ">
+                    <!-- <div class="text">Caption One</div> -->
                 </div>
 
                 <div class="mySlides fade">
-                    <div class="numbertext">2 / 2</div>
-                    <img src="FP LBE NCC/karakter2.jpg" style="width:100%" >
+                    <div class="numbertext">2 / 3</div>
+                    <img src="FP LBE NCC/karakter4.jpg" style="width:100%" >
+                    <!-- <div class="text">Caption Two</div> -->
+                </div>
+                
+                <div class="mySlides fade">
+                    <div class="numbertext">3 / 3</div>
+                    <img src="FP LBE NCC/karakter5.jpg" style="width:100%" >
                     <!-- <div class="text">Caption Three</div> -->
                 </div>
 
@@ -77,6 +83,7 @@
                 <div style="text-align:center">
                     <span class="dot" onclick="currentSlide(1)"></span> 
                     <span class="dot" onclick="currentSlide(2)"></span>
+                    <span class="dot" onclick="currentSlide(3)"></span>
                 </div>
         </div>
         <div class="greeting">
